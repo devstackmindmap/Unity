@@ -13,3 +13,13 @@ https://learn.unity.com/project/creative-core-ui?uv=2020.3
 - Hierarchy > UI > Button - TextMeshPro
 - HotKey : ViewTool(Q), Move(W), Rotate(E), Scale(R), Rect(T), Transform(Y)
 - After selecting an object, you can fix the distance between the anchor and the button position by adjusting the anchor.
+
+## Canvas
+- Canvas Scaler
+    - Constant Pixel Size
+    - Scale With Screen Size (v)
+    - Constant Physical Size
+
+## Button Event
+- Inspector > Button > On Click > Drag Object to the empty Object Fields
+- Use the function dropdowns, GameObject.SecActive
